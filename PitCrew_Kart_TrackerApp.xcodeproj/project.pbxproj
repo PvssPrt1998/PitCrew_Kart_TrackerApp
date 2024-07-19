@@ -78,18 +78,12 @@
 		997E0C9B2C4A849C0045EFE8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C452C4A849C0045EFE8 /* HomeView.swift */; };
 		997E0C9C2C4A849C0045EFE8 /* LogoReviewerLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C472C4A849C0045EFE8 /* LogoReviewerLoadingView.swift */; };
 		997E0C9D2C4A849C0045EFE8 /* ReviewerLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C482C4A849C0045EFE8 /* ReviewerLoadingView.swift */; };
-		997E0C9E2C4A849C0045EFE8 /* LogoUserLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C4A2C4A849C0045EFE8 /* LogoUserLoadingView.swift */; };
-		997E0C9F2C4A849C0045EFE8 /* UserLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C4B2C4A849C0045EFE8 /* UserLoadingView.swift */; };
 		997E0CA02C4A849C0045EFE8 /* LoadingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C4D2C4A849C0045EFE8 /* LoadingViewModel.swift */; };
 		997E0CA12C4A849C0045EFE8 /* ItemMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C4F2C4A849C0045EFE8 /* ItemMainView.swift */; };
 		997E0CA22C4A849C0045EFE8 /* MainContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C502C4A849C0045EFE8 /* MainContainer.swift */; };
 		997E0CA32C4A849C0045EFE8 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C512C4A849C0045EFE8 /* MainView.swift */; };
 		997E0CA42C4A849C0045EFE8 /* ReviewerOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C532C4A849C0045EFE8 /* ReviewerOnboardingView.swift */; };
 		997E0CA52C4A849C0045EFE8 /* ReviewerOnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C542C4A849C0045EFE8 /* ReviewerOnboardingViewModel.swift */; };
-		997E0CA62C4A849C0045EFE8 /* RateAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C562C4A849C0045EFE8 /* RateAlertView.swift */; };
-		997E0CA72C4A849C0045EFE8 /* StarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C582C4A849C0045EFE8 /* StarView.swift */; };
-		997E0CA82C4A849C0045EFE8 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C5A2C4A849C0045EFE8 /* OnboardingViewModel.swift */; };
-		997E0CA92C4A849C0045EFE8 /* UserOnboardingTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C5B2C4A849C0045EFE8 /* UserOnboardingTabView.swift */; };
 		997E0CAA2C4A849C0045EFE8 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C5D2C4A849C0045EFE8 /* OnboardingView.swift */; };
 		997E0CAB2C4A849C0045EFE8 /* RepairAddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C5F2C4A849C0045EFE8 /* RepairAddView.swift */; };
 		997E0CAC2C4A849C0045EFE8 /* RepairAddViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997E0C602C4A849C0045EFE8 /* RepairAddViewModel.swift */; };
@@ -194,18 +188,12 @@
 		997E0C452C4A849C0045EFE8 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		997E0C472C4A849C0045EFE8 /* LogoReviewerLoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogoReviewerLoadingView.swift; sourceTree = "<group>"; };
 		997E0C482C4A849C0045EFE8 /* ReviewerLoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReviewerLoadingView.swift; sourceTree = "<group>"; };
-		997E0C4A2C4A849C0045EFE8 /* LogoUserLoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogoUserLoadingView.swift; sourceTree = "<group>"; };
-		997E0C4B2C4A849C0045EFE8 /* UserLoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserLoadingView.swift; sourceTree = "<group>"; };
 		997E0C4D2C4A849C0045EFE8 /* LoadingViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingViewModel.swift; sourceTree = "<group>"; };
 		997E0C4F2C4A849C0045EFE8 /* ItemMainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemMainView.swift; sourceTree = "<group>"; };
 		997E0C502C4A849C0045EFE8 /* MainContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainContainer.swift; sourceTree = "<group>"; };
 		997E0C512C4A849C0045EFE8 /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		997E0C532C4A849C0045EFE8 /* ReviewerOnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReviewerOnboardingView.swift; sourceTree = "<group>"; };
 		997E0C542C4A849C0045EFE8 /* ReviewerOnboardingViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReviewerOnboardingViewModel.swift; sourceTree = "<group>"; };
-		997E0C562C4A849C0045EFE8 /* RateAlertView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RateAlertView.swift; sourceTree = "<group>"; };
-		997E0C582C4A849C0045EFE8 /* StarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarView.swift; sourceTree = "<group>"; };
-		997E0C5A2C4A849C0045EFE8 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
-		997E0C5B2C4A849C0045EFE8 /* UserOnboardingTabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserOnboardingTabView.swift; sourceTree = "<group>"; };
 		997E0C5D2C4A849C0045EFE8 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		997E0C5F2C4A849C0045EFE8 /* RepairAddView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepairAddView.swift; sourceTree = "<group>"; };
 		997E0C602C4A849C0045EFE8 /* RepairAddViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepairAddViewModel.swift; sourceTree = "<group>"; };
@@ -519,20 +507,10 @@
 			path = ReviewerLoadingView;
 			sourceTree = "<group>";
 		};
-		997E0C4C2C4A849C0045EFE8 /* UserLoadingView */ = {
-			isa = PBXGroup;
-			children = (
-				997E0C4A2C4A849C0045EFE8 /* LogoUserLoadingView.swift */,
-				997E0C4B2C4A849C0045EFE8 /* UserLoadingView.swift */,
-			);
-			path = UserLoadingView;
-			sourceTree = "<group>";
-		};
 		997E0C4E2C4A849C0045EFE8 /* Loadings */ = {
 			isa = PBXGroup;
 			children = (
 				997E0C492C4A849C0045EFE8 /* ReviewerLoadingView */,
-				997E0C4C2C4A849C0045EFE8 /* UserLoadingView */,
 				997E0C4D2C4A849C0045EFE8 /* LoadingViewModel.swift */,
 			);
 			path = Loadings;
@@ -557,38 +535,10 @@
 			path = ReviewerOnboardingView;
 			sourceTree = "<group>";
 		};
-		997E0C572C4A849C0045EFE8 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-				997E0C562C4A849C0045EFE8 /* RateAlertView.swift */,
-			);
-			path = "New Group";
-			sourceTree = "<group>";
-		};
-		997E0C592C4A849C0045EFE8 /* RateAlertView */ = {
-			isa = PBXGroup;
-			children = (
-				997E0C582C4A849C0045EFE8 /* StarView.swift */,
-			);
-			path = RateAlertView;
-			sourceTree = "<group>";
-		};
-		997E0C5C2C4A849C0045EFE8 /* UserOnboardingView */ = {
-			isa = PBXGroup;
-			children = (
-				997E0C572C4A849C0045EFE8 /* New Group */,
-				997E0C592C4A849C0045EFE8 /* RateAlertView */,
-				997E0C5A2C4A849C0045EFE8 /* OnboardingViewModel.swift */,
-				997E0C5B2C4A849C0045EFE8 /* UserOnboardingTabView.swift */,
-			);
-			path = UserOnboardingView;
-			sourceTree = "<group>";
-		};
 		997E0C5E2C4A849C0045EFE8 /* Onboardings */ = {
 			isa = PBXGroup;
 			children = (
 				997E0C552C4A849C0045EFE8 /* ReviewerOnboardingView */,
-				997E0C5C2C4A849C0045EFE8 /* UserOnboardingView */,
 				997E0C5D2C4A849C0045EFE8 /* OnboardingView.swift */,
 			);
 			path = Onboardings;
@@ -777,7 +727,6 @@
 				997E0CAA2C4A849C0045EFE8 /* OnboardingView.swift in Sources */,
 				997E0C7B2C4A849C0045EFE8 /* NavigationViewContainer.swift in Sources */,
 				997E0C862C4A849C0045EFE8 /* EmployeesCollectionViewModel.swift in Sources */,
-				997E0C9E2C4A849C0045EFE8 /* LogoUserLoadingView.swift in Sources */,
 				997E0C8A2C4A849C0045EFE8 /* EmployeesViewModel.swift in Sources */,
 				997E0C982C4A849C0045EFE8 /* KartsView.swift in Sources */,
 				997E0CA52C4A849C0045EFE8 /* ReviewerOnboardingViewModel.swift in Sources */,
@@ -786,7 +735,6 @@
 				997E0CA32C4A849C0045EFE8 /* MainView.swift in Sources */,
 				997E0BF82C4A84860045EFE8 /* RepairCoreData+CoreDataClass.swift in Sources */,
 				997E0BF92C4A84860045EFE8 /* RepairCoreData+CoreDataProperties.swift in Sources */,
-				997E0CA62C4A849C0045EFE8 /* RateAlertView.swift in Sources */,
 				997E0CDB2C4A86940045EFE8 /* AppCoordinator.swift in Sources */,
 				997E0CBD2C4A84A30045EFE8 /* FontCustomModifier.swift in Sources */,
 				997E0CB22C4A849C0045EFE8 /* RepairTotalCostView.swift in Sources */,
@@ -814,9 +762,7 @@
 				997E0C962C4A849C0045EFE8 /* KartCollectionViewCell.swift in Sources */,
 				997E0CD52C4A84AE0045EFE8 /* UIFontExtension.swift in Sources */,
 				997E0BFF2C4A84860045EFE8 /* DataManager.swift in Sources */,
-				997E0CA92C4A849C0045EFE8 /* UserOnboardingTabView.swift in Sources */,
 				997E0CC02C4A84A30045EFE8 /* TintCustomModifier.swift in Sources */,
-				997E0CA82C4A849C0045EFE8 /* OnboardingViewModel.swift in Sources */,
 				997E0CA22C4A849C0045EFE8 /* MainContainer.swift in Sources */,
 				997E0C792C4A849C0045EFE8 /* CustomProgressView.swift in Sources */,
 				997E0BFC2C4A84860045EFE8 /* CoreDataStack.swift in Sources */,
@@ -825,9 +771,7 @@
 				997E0C7D2C4A849C0045EFE8 /* TabViewImage.swift in Sources */,
 				997E0C9B2C4A849C0045EFE8 /* HomeView.swift in Sources */,
 				997E0C022C4A84860045EFE8 /* RepairData.swift in Sources */,
-				997E0C9F2C4A849C0045EFE8 /* UserLoadingView.swift in Sources */,
 				997E0BF42C4A84860045EFE8 /* KartCoreData+CoreDataClass.swift in Sources */,
-				997E0CA72C4A849C0045EFE8 /* StarView.swift in Sources */,
 				997E0CD32C4A84AE0045EFE8 /* ImageTitles.swift in Sources */,
 				997E0CAF2C4A849C0045EFE8 /* RepairTableViewModel.swift in Sources */,
 				997E0C712C4A849C0045EFE8 /* AddItemImage.swift in Sources */,
